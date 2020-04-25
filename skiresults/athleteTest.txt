@@ -1,0 +1,9 @@
+f36b7fab49016786511712ce07e88156;0;M;Beskrovniy Ivan;Sankt-Peterburg;Ru;02;Zelenogorsk
+c1eb75740c8c2e29b81cea821c56c465;0;M;Danilin Andrey;Sankt Peterburg;Ru;02;Koirat
+fe4ceaeafe6a06679ce2b2dbbfcd7245;0;M;Ignatov Pavel;Aprelevka;Ru;04;0
+f78628917f591d2d1a0378f7478d6439;0;M;Loikkanen Janne;Turku;Fi;76;Aamut alkaa a:lla
+b6be2917710aeb0188f19257f9a3899a;0;M;Alberdi Alberto;Villanueva De Gallego;Es;72;0
+78a2a61075b3a3f15f4d2d530d8b6fc7;0;M;Golubkov Leonid;Moscow;Ru;63;Russian Worldloppet Team
+010f2a75723e7234fcf7c1858191a96b;1;N;Larionova Tatiana;Lahti;Ru;61;0
+ff2e71696a4ef9585fc2e5e852c83b0b;2;N;Huttunen Aino;Lahti;Fi;01;Lahden Hiihtoseura
+9ad56e8971551616eab1f9c13cd53aab;0;M;Alberdi Alberto;Villanueva De Gallego;Es;72;Pulkan narut

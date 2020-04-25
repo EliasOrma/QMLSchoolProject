@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>InputBox.qml</file>
+        <file>ResultView.qml</file>
+        <file>SearchView.qml</file>
+        <file>TableDataView.qml</file>
+        <file>GraphDataView.qml</file>
+        <file>RacetagComboBox.qml</file>
+    </qresource>
+</RCC>
